@@ -66,6 +66,10 @@ Our services are not intended for—and we don’t direct them to—anyone under
 
 We may change this privacy policy from time to time. But when we do, we’ll let you know one way or another. Sometimes, we’ll let you know by revising the date at the top of the privacy policy that’s available on our website and mobile application. Other times, we may provide you with additional notice (such as adding a statement to our websites’ homepages or providing you with an in-app notification).
 
+A 1 month purchase will be applied to your iTunes account. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. For more information, see our private policy https://raw.githubusercontent.com/MoonAndEye/AppStore/main/PrivacyPolicy.md.
+
 ### Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us at atimis19 at gmail
+
+
