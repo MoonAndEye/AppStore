@@ -97,3 +97,5 @@ Entire Agreement
 The Agreement constitutes the entire agreement between You and the Company regarding your use of the Application and supersedes all prior and contemporaneous written or oral agreements between You and the Company.
 
 You may be subject to additional terms and conditions that apply when You use or purchase other Company's services, which the Company will provide to You at the time of such use or purchase.
+
+A 1 month purchase will be applied to your iTunes account. Subscriptions will automatically renew unless canceled within 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. For more information, see our private policy https://raw.githubusercontent.com/MoonAndEye/AppStore/main/PrivacyPolicy.md.
